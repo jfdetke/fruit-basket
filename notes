@@ -1,1 +1,6 @@
 # description goes here
+#
+# Method to run via docker (minimally tested)
+# docker run -it -v $PWD:/fruit ubuntu "/fruit/runit.sh"
+# edit runit.sh to alter datafile
+#
